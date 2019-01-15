@@ -1,0 +1,11 @@
+Problemas Propostos
+
+Treino do dia 15 de Janeiro
+	Tema: Testes de Primalidade e Crivo de Eratosthenes
+	Problemas:
+		https://projecteuler.net/problem=3
+		https://projecteuler.net/problem=7
+		https://projecteuler.net/problem=10
+		https://projecteuler.net/problem=21
+
+
